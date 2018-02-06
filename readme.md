@@ -28,8 +28,8 @@ Partners will be referred to as partner1 and partner2.
 - create a folder called `git-and-github-practice` **inside your work folder**
 
 - within that folder create the following files `index.html` and `style.css`
-  - 'cd git-and-github-practice'
-- copy and paste the code from the [starter-code](starter-code) from the `index.html` and `style.css` into your own
+  - Don't forget to `cd git-and-github-practice`
+- copy and paste the code from the [starter-code](starter-code) from the `index.html` and `style.css` into the files you just made locally
 - inside the `index.html`, we need to do a little re-branding, so change all of the occurrences of "Relaxr" to "Relaxor"
 - initiate a git repository, commit your changes, and push to GitHub
 
@@ -44,8 +44,6 @@ Partners will be referred to as partner1 and partner2.
 **With partner1 driving:**
 
 - merge the pull request from the GitHub interface
-
-
 
 ### Part 2
 
